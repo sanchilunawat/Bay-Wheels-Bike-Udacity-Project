@@ -1,5 +1,5 @@
 # Bay-Wheels-Bike-Udacity-Project
-## by (Sanchi Lunawat)
+## by Sanchi Lunawat
 
 # Dataset
 This Analysis was done around data from 2020 (January - March) and pulled off of the public lyft link. Some of the steps taken to clean this dataset involved dropping unwanted columns, converting rental time into minutes, calculating distance based on latitude & longitutde.  
@@ -19,9 +19,9 @@ This project required pandas, numpy, matplotlib, seaborn, and datetime
 * Distance traveled in correlation with duration of bike rides
 
 # Sources for investigation
-Data from: https://www.lyft.com/bikes/bay-wheels/system-data
-Lat & Long python code: https://kanoki.org/2019/12/27/how-to-calculate-distance-in-python-and-pandas-using-scipy-spatial-and-distance-functions/ 
-Seaborn plots: https://seaborn.pydata.org/
+* Data from: https://www.lyft.com/bikes/bay-wheels/system-data
+* Lat & Long python code: https://kanoki.org/2019/12/27/how-to-calculate-distance-in-python-and-pandas-using-scipy-spatial-and-distance-functions/
+* Seaborn plots: https://seaborn.pydata.org/
 
 ## Summary of Findings
 
